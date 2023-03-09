@@ -1,0 +1,9 @@
+/dist
+/node_modules
+
+.vscode
+
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
